@@ -21,6 +21,17 @@
 
 
 
+# BOM
+- 1x Lolin C3 Mini ESP 32 Devboard
+- 3x Keyboard Switches
+- 3x Keycap
+- 1x 2.25in TFT Screen
+- 1x 3.3V Piezo Buzzer
+- 1x Custom PCB
+- 1x 3d Printed Casing
+
+
+
 
 - WHOOOOO I built the entire v1 of the case design in one sitting
 - It has been a very productive afternoon but we have deadlines
