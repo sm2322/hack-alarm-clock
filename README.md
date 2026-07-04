@@ -19,9 +19,6 @@
 <img width="780" height="499" alt="Screenshot 2026-07-03 at 6 13 28 PM" src="https://github.com/user-attachments/assets/2d710fff-10bd-44e2-887c-a20a869fd8eb" />
 <img width="616" height="546" alt="Screenshot 2026-07-03 at 6 13 10 PM" src="https://github.com/user-attachments/assets/8f618fad-e54d-487c-9827-f1e615e4a920" />
 
-
-
-
 - WHOOOOO I built the entire v1 of the case design in one sitting
 - It has been a very productive afternoon but we have deadlines
 - Almost firmware time.
@@ -29,3 +26,17 @@
 [Lapse](https://lapse.hackclub.com/timelapse/pJ3X7i8eazS0)
 <img width="591" height="548" alt="Screenshot 2026-07-03 at 8 26 31 PM" src="https://github.com/user-attachments/assets/d0799130-2113-48c2-a6b8-ff44d465edb0" />
 <img width="578" height="499" alt="Screenshot 2026-07-03 at 8 18 14 PM" src="https://github.com/user-attachments/assets/65b07236-f631-4fab-80a8-1f454fead3ce" />
+
+
+
+# BOM
+- 1x Lolin C3 Mini ESP 32 Devboard
+- 3x Keyboard Switches
+- 3x Keycap
+- 1x 2.25in TFT Screen
+- 1x 3.3V Piezo Buzzer
+- 1x Custom PCB
+- 1x 3d Printed Casing
+
+
+
