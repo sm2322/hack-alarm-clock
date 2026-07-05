@@ -6,6 +6,7 @@
  	- Up, Down, Confirm
 - Custom designed case that is 3d printed in three parts
 - Easy assembly with secure wiring
+- It has custom made firmware that let's you set an alarm and set the current time
 
 
 
@@ -40,7 +41,11 @@
 Full Hackatime Project
 [Hackatime - Track your coding time](https://hackatime.hackclub.com/my/projects/BLARE%20alarm%20clock)
 
-
+# Roadmap
+- Add support for the buzzer to properly go off
+- Add support for the display correctly once I get it for easier debug
+- Add AM/PM support
+- Make it look more pretty :)
 # BOM
 - 1x Lolin C3 Mini ESP 32 Devboard
 - 3x Keyboard Switches
