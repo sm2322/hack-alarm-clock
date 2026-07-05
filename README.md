@@ -17,7 +17,7 @@
   - Started the project! Wrote out a plan in Obsidian and downlaoded the footprints off github.
   - Imported the footprints into kicad
 - Just finished my first version of pcb! Looks good. and getting this far took about an hour 26 mins. It has a vertical screen and three buttons on top. Time for modelling. Pray for me
-- [Lapse](https://lapse.hackclub.com/timelapse/gpTg3AW5xFuO)
+- [Lapse](https://lapse.hackclub.com/timelapse/gpTg3AW5xFuO) 1 Hour 26 Min of work
 <img width="780" height="499" alt="Screenshot 2026-07-03 at 6 13 28 PM" src="https://github.com/user-attachments/assets/2d710fff-10bd-44e2-887c-a20a869fd8eb" />
 <img width="616" height="546" alt="Screenshot 2026-07-03 at 6 13 10 PM" src="https://github.com/user-attachments/assets/8f618fad-e54d-487c-9827-f1e615e4a920" />
 
@@ -25,21 +25,21 @@
 - It has been a very productive afternoon but we have deadlines
 - Almost firmware time.
 - The case is a three piece design meant to be 3d printed. I think it will work well i leanred from my mistakes and it is very chamfered and secure hopefully.
-[Lapse](https://lapse.hackclub.com/timelapse/pJ3X7i8eazS0)
+[Lapse](https://lapse.hackclub.com/timelapse/pJ3X7i8eazS0) 2 Hours of Work
 <img width="591" height="548" alt="Screenshot 2026-07-03 at 8 26 31 PM" src="https://github.com/user-attachments/assets/d0799130-2113-48c2-a6b8-ff44d465edb0" />
 <img width="578" height="499" alt="Screenshot 2026-07-03 at 8 18 14 PM" src="https://github.com/user-attachments/assets/65b07236-f631-4fab-80a8-1f454fead3ce" />
 
 ### DAY 2
 - I built the firmware and learned how to program in arduino
 - Conencted the components and began working in the IDE as well as TinkerCad
- -  [Lapse](https://lapse.hackclub.com/timelapse/GXq9KAY2PaT6)
+ -  [Lapse](https://lapse.hackclub.com/timelapse/GXq9KAY2PaT6) 47 Minutes of work
 
 - Added the ability to set the time on the clock
 - Added the ability to set the alarm time too!
--  [Lapse](https://lapse.hackclub.com/timelapse/48aM7OdNLg47)
+-  [Lapse](https://lapse.hackclub.com/timelapse/48aM7OdNLg47 1 Hour of work
 
 Full Hackatime Project
-[Hackatime - Track your coding time](https://hackatime.hackclub.com/my/projects/BLARE%20alarm%20clock)
+[Hackatime - Track your coding time](https://hackatime.hackclub.com/my/projects/BLARE%20alarm%20clock) 5 Hours 21 Mins of work total :)
 
 # Roadmap
 - Add support for the buzzer to properly go off
